@@ -1,5 +1,5 @@
 # CSS-Mini-Project
-Apna College Photography Page 
+<h2>Apna College Photography Page </h2>
 <br>
 <br>
 <p>
